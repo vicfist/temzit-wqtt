@@ -1,1 +1,1 @@
-# myesp32-to-wqtt
+# temzit-to-wqtt
