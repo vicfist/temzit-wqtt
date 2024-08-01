@@ -1,7 +1,0 @@
-version: '3'
-
-services:
-  temzit-to-wqtt:
-    image: temzit-to-wqtt
-
-    restart: unless-stopped
